@@ -1,2 +1,2 @@
 # PythonPractices
-It has python codes to practice the code.
+It has python codes to practise the code.
